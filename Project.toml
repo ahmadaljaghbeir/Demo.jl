@@ -1,0 +1,7 @@
+name = "Demo"
+uuid = "eb56492e-bc88-4b62-a672-e81d25263d2a"
+authors = ["Jaan Tollander de Balsch <jaan@hey.com>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
