@@ -3,6 +3,6 @@ module Demo
 export greet
 
 """Greetings!"""
-greet() = return 1
+greet() = println("Hello World!")
 
 end # module
