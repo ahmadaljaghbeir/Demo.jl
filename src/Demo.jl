@@ -1,8 +1,17 @@
-module Demo
+module Calculator
 
-export greet
+export add, subtract, multiply, divide
 
-"""Greetings!"""
-greet() = println("Hello World!")
+"""Addition"""
+add(a, b) = a + b
+
+"""Subtraction"""
+subtract(a, b) = a - b
+
+"""Multiplication"""
+multiply(a, b) = a * b
+
+"""Division"""
+divide(a, b) = a / b
 
 end # module
