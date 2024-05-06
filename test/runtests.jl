@@ -1,5 +1,5 @@
 using Test
-using Calculator
+using Demo
 
 @test add(2, 3) === 6
 @test subtract(5, 3) === 2

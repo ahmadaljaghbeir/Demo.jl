@@ -1,4 +1,4 @@
-module Calculator
+module Demo
 
 export add, subtract, multiply, divide
 
